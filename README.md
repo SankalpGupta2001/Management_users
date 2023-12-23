@@ -1,6 +1,7 @@
 Set up to run the project : 
-cd backend
-node server.js
 
-cd frontend
-npm start
+1) cd backend
+2) node server.js
+
+3) cd frontend
+4) npm start
